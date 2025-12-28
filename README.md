@@ -1,2 +1,4 @@
-# LEVM-Multi-device-data-fusion-method-for-3D-fracture-resconstuction
-这是一个开源的三维岩石裂隙重构方法的开源代码和数据集。相关论文目前已提交至IJRMMS。
+# LEVM：Data fusion 3D fracture reconstruction method
+This repository provides open-source code and datasets for a three-dimensional rock fracture reconstruction method. The associated manuscript has been submitted to IJRMMS.
+>Notice: 
+>
