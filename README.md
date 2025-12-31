@@ -19,6 +19,6 @@ The workflow of the program is as follows:
   - Example Demonstrates the iterative extraction and processing image.
 - `Enclosed_Volume_Cal_from_Point_Clouds.m` Used to calculate the enclosed volume between fracture surfaces, accurately reflecting the true relative position of the fracture walls.
 - `NormalContactSimulation.py`
-  - More details and required packages are provided in the **ContactMechanics** directory.
+  - More details and required packages are provided in the **[ContactMechanics](https://github.com/ContactEngineering/ContactMechanics)** directory.
   - This program can only be executed on **Linux** and **macOS** systems.
   - The fracture aperture data must be provided in **matrix form** and the surfaces must be **composite surfaces**, aperture values must be **negative**
