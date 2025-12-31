@@ -21,4 +21,4 @@ The workflow of the program is as follows:
 - `NormalContactSimulation.py`
   - More details and required packages are provided in the **[ContactMechanics](https://github.com/ContactEngineering/ContactMechanics)** directory.
   - This program can only be executed on **Linux** and **macOS** systems.
-  - The fracture aperture data must be provided in **matrix form** and the surfaces must be **composite surfaces**, aperture values must be **negative**
+  - The fracture aperture data must be provided in **matrix form** and the surfaces must be **composite surfaces**, aperture values should be **negative**
